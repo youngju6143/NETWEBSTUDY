@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NETWEBSTUDY/static/css/main.8af76523.css",
+    "main.js": "/NETWEBSTUDY/static/js/main.3b615441.js",
+    "index.html": "/NETWEBSTUDY/index.html",
+    "main.8af76523.css.map": "/NETWEBSTUDY/static/css/main.8af76523.css.map",
+    "main.3b615441.js.map": "/NETWEBSTUDY/static/js/main.3b615441.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8af76523.css",
+    "static/js/main.3b615441.js"
+  ]
+}
